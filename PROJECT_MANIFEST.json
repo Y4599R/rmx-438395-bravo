@@ -2,9 +2,9 @@
     "entrypoint":  "CONTEXT-PACK.md",
     "latest_changes":  [
                            {
-                               "ts":  "2025-10-20T19:28:08+03:00",
-                               "commit":  "9456dd3",
-                               "file":  "PROJECT_MANIFEST.json"
+                               "ts":  "2025-10-20T19:57:02+03:00",
+                               "commit":  "7dc077d",
+                               "file":  "reports/TEST_SYNC.md"
                            }
                        ],
     "project_name":  "YASHTARA_RAG",
@@ -12,7 +12,7 @@
                            "CONTEXT-PACK.md",
                            "ALLIN_STATUS.md"
                        ],
-    "last_update":  "2025-10-20T19:28:08+03:00",
+    "last_update":  "2025-10-20T19:57:02+03:00",
     "mirror_repo":  "rmx-438395-bravo",
     "notes":  "public mirror. no secrets."
 }
