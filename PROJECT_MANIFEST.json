@@ -1,0 +1,18 @@
+{
+    "entrypoint":  "CONTEXT-PACK.md",
+    "latest_changes":  [
+                           {
+                               "ts":  true,
+                               "commit":  true,
+                               "file":  true
+                           }
+                       ],
+    "project_name":  "YASHTARA_RAG",
+    "critical_files":  [
+                           "CONTEXT-PACK.md",
+                           "ALLIN_STATUS.md"
+                       ],
+    "last_update":  true,
+    "mirror_repo":  "rmx-438395-bravo",
+    "notes":  "public mirror. no secrets."
+}
